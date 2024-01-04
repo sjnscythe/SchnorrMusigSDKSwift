@@ -1,0 +1,6 @@
+framework module SchnorrMusigSDKSwift {
+  umbrella header "SchnorrMusigSDKSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
